@@ -1,0 +1,3 @@
+https://github.com/DataWithBaraa/sql-data-warehouse-project
+https://www.youtube.com/watch?v=Dguou3fPLO8
+https://datawithbaraa.substack.com/p/build-a-data-warehouse-from-scratch?utm_source=publication-search
