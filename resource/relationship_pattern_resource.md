@@ -321,3 +321,4 @@ WHERE t.transaction_date BETWEEN '2023-01-01' AND '2023-12-31';
 - All joins are LEFT JOIN to preserve transactions
 - COALESCE provides default values for missing dimensions
 - Filter applied after joins (date predicate on fact table)
+-----
